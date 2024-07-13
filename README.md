@@ -6,10 +6,10 @@ This is a simple web application built using Node.js and Express framework, with
 
 1. Clone the repository:
 ``` 
-git clone <repository-url>
+git clone https://github.com/Kashirin-Yegor/simple-webapp.git
 ```
 ```
-cd <repository-folder>
+cd simple-webapp
 ```
 
 2. Install dependencies:
