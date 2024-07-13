@@ -1,0 +1,32 @@
+# Node.js
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Sequelize
+/config/config.json
+
+# IDE/Editor
+.vscode
+.idea
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Ignore built files in React / Next.js / Gatsby.js / Vue.js / Sapper.js
+/.next/
+/dist/
+/.out/
+/.nuxt/
+/yarn-error.log
+/.pnp.js
+.pnp.js
+ WideString official Contains edited add و
